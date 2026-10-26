@@ -1,0 +1,10 @@
+{
+  "publications": [
+    "https://www.thefp.com"
+  ],
+  "maxPostsPerPublication": 10,
+  "includeBody": true,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
